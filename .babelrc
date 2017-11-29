@@ -1,0 +1,8 @@
+{
+  "presets": [ "latest" ],
+  "plugins": [
+    "ramda",
+    "transform-class-properties",
+    "transform-object-rest-spread"
+  ]
+}
